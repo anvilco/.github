@@ -1,4 +1,4 @@
-<a href="https://www.useanvil.com/?utm_source=github&utm_medium=org-profile&utm_campaign=org-banner"><img alt="Anvil: document infra for developers and AI agents" src="https://raw.githubusercontent.com/anvilco/.github/main/profile/github_banner.png"></a>
+<a href="https://www.useanvil.com/?utm_source=github&utm_medium=org-profile&utm_campaign=org-banner"><img alt="Anvil: document infra for developers and AI agents" src="https://raw.githubusercontent.com/anvilco/.github/main/profile/github%20banner.png"></a>
 
 <div align="center">
   <h3>Fill PDFs, generate PDFs, collect e-signatures, and automate document workflows with one API.</h3>
